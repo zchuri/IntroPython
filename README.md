@@ -1,2 +1,2 @@
 # IntroPython
-Python scripts develop in lgs5728 lessons
+Python scripts develop in lgs5728 class
